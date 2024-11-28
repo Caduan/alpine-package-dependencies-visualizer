@@ -1,0 +1,4 @@
+package: python3
+repository: http://dl-cdn.alpinelinux.org/alpine/edge/main/x86_64
+visualizer: /Users/nikitanikonov/.nvm/versions/node/v23.3.0/bin/mmdc -i {input_file} -o {output_file} -t neutral -w 1600 -H 1200
+png_file: graph.png
